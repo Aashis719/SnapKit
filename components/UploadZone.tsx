@@ -16,7 +16,7 @@ export const UploadZone: React.FC<UploadZoneProps> = ({ onFileSelect }) => {
   const handleDragLeave = useCallback((e: React.DragEvent) => {
     e.preventDefault();
     setIsDragging(false);
-  }, []);
+  }, []); 
 
   const handleDrop = useCallback((e: React.DragEvent) => {
     e.preventDefault();
