@@ -1,6 +1,6 @@
 # SnapKit
 
-### Transform Photos into Viral Content ⚡
+### Transform Photos into Viral Content ⚡ 
 
 **SnapKit** is an intelligent social media assistant that leverages advanced AI to revolutionize capability content creation. By analyzing your images with computer vision, it instantly generates tailored captions, hashtags, and scripts optimized for every major platform.
 
