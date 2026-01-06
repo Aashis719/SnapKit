@@ -18,7 +18,7 @@ export const saveGeneration = async (
             // You could extract width/height/format if you passed them
         })
         .select()
-        .single();
+        .single(); 
 
     if (imageError) throw imageError;
 
